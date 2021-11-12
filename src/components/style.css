@@ -25,6 +25,7 @@ body {
     background: linear-gradient(to right, #92FE9D, #00C9FF);  
     border-radius: 19px;
     box-shadow: 0 0 40px rgba(0,0,0,0.3);
+    transition: width 0.5s ease-in-out;
     animation: 1s ease-out 0s 1 slide;
 }
 @keyframes slide {

@@ -1,6 +1,4 @@
-import {
-    createSlice
-} from '@reduxjs/toolkit';
+import {createSlice} from '@reduxjs/toolkit';
 import Candyman from '../../movieCover/Candyman.jpg'
 import Tralala from '../../movieCover/Affiche_Tralala.jpg'
 const initialState = {
